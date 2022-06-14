@@ -1,1 +1,1 @@
-<h1>Esta es la vista de Usuario</h1>
+<h1>Esta es la vista de Usuarios</h1>
